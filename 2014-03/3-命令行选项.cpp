@@ -1,3 +1,4 @@
+// 知识点: 模拟
 #include <iostream>
 #include <map>
 #include <utility>
